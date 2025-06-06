@@ -1,1 +1,3 @@
+[![scorecard-score](https://github.com/recursionpharma/octo-guard-badges/blob/trunk/badges/repo/it-glean-2024-testing-public/maturity_score.svg?raw=true)](https://infosec-docs.prod.rxrx.io/octoguard/scorecards/it-glean-2024-testing-public)
+[![scorecard-status](https://github.com/recursionpharma/octo-guard-badges/blob/trunk/badges/repo/it-glean-2024-testing-public/scorecard_status.svg?raw=true)](https://infosec-docs.prod.rxrx.io/octoguard/scorecards/it-glean-2024-testing-public)
 # it-glean-2024-testing-public
